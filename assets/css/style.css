@@ -30,7 +30,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -42,11 +42,11 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+ul {
     list-style-type: none;
 }
 
-nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -125,8 +125,9 @@ nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-/*benefits style end */
+/* benefits style end */
 
+/* footer style start */
 footer {
     padding: 30px;
     clear: both;
@@ -137,3 +138,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer styler end */
